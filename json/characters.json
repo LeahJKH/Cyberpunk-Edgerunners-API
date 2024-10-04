@@ -28,7 +28,7 @@
             "Sandevistan from Santo"
         ],
         "placeOfBirth": "Night City",
-        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/f1.webp",
+        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/F1.webp",
         "firstApperance": "Episode 1"
     },
     "Lucy": {
@@ -53,7 +53,31 @@
             "Luce"
         ],
         "placeOfBirth": "Warsaw, Poland",
-        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/f1.webp",
+        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/F2.webp",
         "firstApperance": "Episode 1"
+    },
+    "Rebbeca": {
+        "name": "Rebbeca",
+        "agePreTimeSkip": "around 20",
+        "agePostTimeSkip": "around 20",
+        "cyberware": [
+            "2x highly stylized Gorilla Arms",
+            "2x Cyberoptics", 
+            "EMP Threading", 
+            "Light Tattoos", 
+            "Neuroport"
+        ],
+        "voicedBy": [
+            "Alex Cazares (English)",
+            "Tomoyo Kurosawa (Japanese)",
+            "Zuzanna Galia (Polish)"
+        ],
+        "aliases": [     
+            "Becca",
+            "Becka"
+        ],
+        "placeOfBirth": "Night City",
+        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/F3.webp",
+        "firstApperance": "Episode 3"
     }
 }
