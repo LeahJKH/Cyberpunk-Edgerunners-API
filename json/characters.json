@@ -27,6 +27,32 @@
             "Davey",
             "Sandevistan from Santo"
         ],
+        "placeOfBirth": "Night City",
+        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/f1.webp",
+        "firstApperance": "Episode 1"
+    },
+    "Lucy": {
+        "name": "Lucyna Kushinada",
+        "agePreTimeSkip": "around 20",
+        "agePostTimeSkip": "around 20",
+        "cyberware": [
+            "2x Monowire",
+            "EMP Threading",
+            "Cyberdeck Port (Cyberdeck chip)", 
+            "Deep Net dive processor", 
+            "multiple Personal Links", 
+            "subdermal neural processor"
+        ],
+        "voicedBy": [
+            "Emi Lo (English)",
+            "Aoi Yûki (Japanese)",
+            "Julia Łukowiak (Polish)"
+        ],
+        "aliases": [     
+            "Lucy",
+            "Luce"
+        ],
+        "placeOfBirth": "Warsaw, Poland",
         "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/f1.webp",
         "firstApperance": "Episode 1"
     }

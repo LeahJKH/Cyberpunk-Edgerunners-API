@@ -31,9 +31,10 @@ Characters object
         "aliases": [
             (aliases in Cyberpunk edgerunners)
         ],
+        "placeOfBirth: "",
         "picture": "(link too the api's picture)",
         "firstApperance": ""
     }
 }
 ```
-so far it has ["David"]
+so far it has ["David", "Lucy"]
