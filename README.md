@@ -37,4 +37,4 @@ Characters object
     }
 }
 ```
-so far it has ["David", "Lucy", "Rebecca"]
+so far it has ["David", "Lucy", "Rebecca", "Maine"]

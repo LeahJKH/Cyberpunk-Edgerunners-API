@@ -79,5 +79,31 @@
         "placeOfBirth": "Night City",
         "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/F3.webp",
         "firstApperance": "Episode 3"
+    },
+    "Maine": {
+        "name": "Maine",
+        "agePreTimeSkip": "Late 30s",
+        "agePostTimeSkip": "Deceased",
+        "cyberware": [
+            "2x Gorilla Arms", 
+            "Projectile Launch System", 
+            "2x cyberlegs", 
+            "EMP Threading", 
+            "Linear Frame", 
+            "Neuroport", 
+            "Subdermal Armor"
+        ],
+        "voicedBy": [   
+            "William Christopher Stephens (English)",
+            "Hiroki Touchi (Japanese)",
+            "Szymon Kuśmider (Polish)"
+        ],
+        "aliases": [
+            "none"
+        ],
+        "placeOfBirth": "Portland, Maine",
+        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/F4.webp",
+        "firstApperance": "Episode 2"
     }
+    
 }
