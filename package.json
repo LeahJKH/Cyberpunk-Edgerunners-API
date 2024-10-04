@@ -1,7 +1,16 @@
 {
+  "name": "projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+"start": "echo \"api is running :3\" && node . && echo \"http://localhost:8001\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.0",
-    "node": "^22.9.0"
+    "express": "^4.19.2"
   }
 }
