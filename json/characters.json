@@ -1,0 +1,33 @@
+{
+    "David": {
+        "name": "David Martinez",
+        "agePreTimeSkip": "17",
+        "agePostTimeSkip": "18",
+        "cyberware": [
+            "2x Gorilla Arms",
+            "Projectile Launch System",
+            "2x Cyberlegs",
+            "2x Fortified Ankles",
+            "EMP Threading",
+            "2x Kiroshi Cyberoptics",
+            "Linear Frame",
+            "Heavy Duty Neural Processor",
+            "Experimental Sandevistan",
+            "Prototype Arasaka Cyberskeleton (temporarily)",
+            "Subdermal Armor",
+            "Syn-Lungs"
+        ],
+        "voicedBy": [
+            "Zach Aguilar (English)",
+            "Kenichiro Ohashi (Japanese)",
+            "Maciej Dybowski (Polish)"
+        ],
+        "aliases": [
+            "Dee",
+            "Davey",
+            "Sandevistan from Santo"
+        ],
+        "picture": "http://cyberpunk-edgerunners-api.vercel.app/character/f1.webp",
+        "firstApperance": "Episode 1"
+    }
+}
