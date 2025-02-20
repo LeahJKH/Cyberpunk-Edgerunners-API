@@ -1,6 +1,9 @@
 <h1> Welcome</h1>
 <p>I really like cyberpunk edge runners so seeing as the new season is on the way i made this api. hopefully i will be able too make something that can be used in multiple projects</p>
 
+>[!NOTE]
+>This api does include Cors
+
 <hr>
 
 <h3>Base url</h3>
@@ -20,6 +23,9 @@
     }
 ]
 ```
+> [!IMPORTANT]
+> I havent double checked these so far.
+
 <h3>Characters</h3>
 <a>http://cyberpunk-edgerunners-api.vercel.app/char</a>
 <p>Characters object</p>
@@ -51,3 +57,5 @@
 ```js
 ["David", "Lucy", "Rebecca", "Maine"]
 ```
+> [!NOTE]
+> It will be worked on in the comming days
